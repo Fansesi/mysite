@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Travel Notes
 description: A description of this category
 image:
 

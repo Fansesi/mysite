@@ -7,6 +7,15 @@
 #icon = "home"
 #newtab = true
 
+# [[main]]
+# identifier = "about"
+# name = "About Me"
+# url = "/"
+
+# [main.params]
+# icon = "user"
+# newtab = true
+
 [[social]]
 identifier = "github"
 name = "GitHub"

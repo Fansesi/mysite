@@ -4,9 +4,9 @@ description: Welcome to Fort of Joy
 slug: fort-joy
 date: 2024-07-14 00:00:00+0000
 categories:
-    - Example Category
+    - High School Related
 tags:
-    - Example Tag
+    - İFL
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

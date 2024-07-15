@@ -10,15 +10,40 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/Fansesi"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/burak-sina-akbudak-2407a227b/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/@buraksinaakbudak"
+
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/sina.akbdk/"
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "mail"
+name = "Mail"
+url = "mailto:buraksinaakbudak@gmail.com"
+
+[social.params]
+icon = "mail"
+

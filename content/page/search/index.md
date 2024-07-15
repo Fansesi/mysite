@@ -5,9 +5,5 @@ layout: "search"
 outputs:
     - html
     - json
-menu:
-    main:
-        weight: 3
-        params: 
-            icon: search
+# removed it from the menu on the left
 ---

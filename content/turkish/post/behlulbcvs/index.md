@@ -10,6 +10,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-What's popping youtube are you a reaction coach?
-
-![Img 1](img1.jpg)
+Ich bin 37 jahre alt.

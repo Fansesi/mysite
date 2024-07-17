@@ -16,7 +16,7 @@ My interests can be categorized as follows:
 
 ### Music
 
-* Classical and jazz music composition
+* Classical, jazz and math rock music composition
 * Music theory and using this theory knowledge on playing classical, electrical, bass guitars and drums
 * Digital Audio Workstations (DAWs) and signal processing
 

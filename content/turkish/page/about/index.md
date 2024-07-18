@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hakkımda"
 date: 2024-07-15
 layout: "about"
 slug: "about"

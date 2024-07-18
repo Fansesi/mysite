@@ -1,6 +1,6 @@
 ---
-title: Gezme Test
-description: "Şuraya gidiyorum: Brüksel"
+title: EUCYS Yarışması
+description: TÜBİTAK tarafından EUCYS'e seçildim ve Brüksel'deki yarışmaya katıldım.
 slug: gezi
 date: 2024-07-14 00:00:00+0000
 categories:

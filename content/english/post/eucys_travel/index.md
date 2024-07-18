@@ -1,6 +1,6 @@
 ---
-title: Travel Test
-description: Traveling to Brussels
+title: EUCYS Competition
+description: I've selected for EUCYS by TÜBİTAK and attended the competition which held in Brussels.
 slug: travel
 date: 2024-07-14 00:00:00+0000
 categories:

@@ -3,12 +3,12 @@
 languageName = "English"
 languagedirection = "ltr"
 contentDir = 'content/english'
-title = "Burak Sina Akbudak en"
+title = "Burak Sina Akbudak"
 weight = 10
 
 [tr]
 languageName = "Turkish"
 contentDir = 'content/turkish'
 languagedirection = "ltr"
-title = "Burak Sina Akbudak tr"
+title = "Burak Sina Akbudak"
 weight = 20

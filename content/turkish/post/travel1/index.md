@@ -1,13 +1,13 @@
 ---
-title: Travel Test
-description: Traveling to ...
-slug: travel
+title: Gezme Test
+description: "Şuraya gidiyorum: Brüksel"
+slug: gezi
 date: 2024-07-14 00:00:00+0000
 categories:
-    - Travel
+    - Gezi Yazıları
 tags:
-    - travel1
+    - Brüksel
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Meine name ist Burak.
+Brüksel'e gittim. Güzel yer.

@@ -1,6 +1,6 @@
 ---
 title: High School Related
-description: A description of this category
+description: What I want to share is based on the experiences I had during high school. You can find information about Izmir Science High School, the high school I graduated from, and TÜBİTAK, the institution in which I participated in various events.
 image:
 
 # Badge style

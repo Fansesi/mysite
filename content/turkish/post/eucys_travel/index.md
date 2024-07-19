@@ -1,7 +1,7 @@
 ---
 title: EUCYS Yarışması
 description: TÜBİTAK tarafından EUCYS'e seçildim ve Brüksel'deki yarışmaya katıldım.
-slug: gezi
+slug: eucys_gezi
 date: 2024-07-14 00:00:00+0000
 categories:
     - Gezi Yazıları

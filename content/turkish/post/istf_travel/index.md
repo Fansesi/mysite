@@ -1,7 +1,7 @@
 ---
 title: ISTF Etkinliği
 description: TÜBİTAK tarafından ISTF'e seçildim ve İsviçre'deki etkinliğe katıldım.
-slug: gezi
+slug: istf_gezi
 date: 2024-02-20 00:00:00+0000
 categories:
     - Gezi Yazıları

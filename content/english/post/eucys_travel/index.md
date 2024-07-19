@@ -1,7 +1,7 @@
 ---
 title: EUCYS Competition
 description: I've selected for EUCYS by TÜBİTAK and attended the competition which held in Brussels.
-slug: travel
+slug: eucys_travel
 date: 2023-09-08 00:00:00+0000
 categories:
     - Travel Notes

@@ -1,7 +1,7 @@
 ---
 title: ISTF Event
 description: I've selected for ISTF by TÜBİTAK and attended the event in Switzerland.
-slug: travel
+slug: istf_travel
 date: 2024-02-20 00:00:00+0000
 categories:
     - Travel Notes

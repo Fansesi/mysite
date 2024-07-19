@@ -55,12 +55,11 @@ Karşımdaki katılımcılar posteri çok beğendi hatta fotosunu çekti. Romany
 Bizim matematik olimpiyat takımına dedim ki Hitler mi öğretsem millete, bizim takımdaki özel oyunumuzdur. Milas’ın efsanevi yorumunu koyuyorum:
 
 > Alman arkadaş şansölye olduktan sonra Romanyalı arkadaşın veto etme şekli.
-
 > Oyundan bir şey olmaz dedi, 3. Dünya Savaşı’nı başlattı.
 
 Bir jüri daha, 4 oldu. Bu sefer gerçekten mühendisti hatta 2 sene önce müzik tabanlı bi startup’ı falan varmış. Sunum güzel geçti, güzel sorular da sordu; teknik de sordu, genel olarak muhabbet için de sordu. Hatta birkaç arkadaşına haber vereceğini, onların benimle iletişime geçebileceğini falan söyledi. Oldukça güzel muhabbet!
 
-Romanyalı arkadaşlara oda arkadaşım Aliberk'ten söz ettim. İlgi alanları benzermiş. 
+Romanyalı arkadaşlara oda arkadaşım Aliberk'ten söz ettim. İlgi alanları benzermiş.
 
 Sonrasında Litvanyalı bir yarışmacı geldi. Yeni mezun olmuş o da. Onunla baya bi konuştuk. Hal ve hareketleri bir arkadaşıma o kadar benzettim ki.
 

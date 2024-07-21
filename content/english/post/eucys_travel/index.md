@@ -10,7 +10,10 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## Day 0
+> **Note (EN):** If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.  
+> **Not (TR):** Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.
+
+## Day 0 - Travel
 
 First. Time. Just myself. Plane. Crazy stuff. It's 2:40 AM. Left my friends about an hour ago. I've headed to the airport. Passed through the first entrance gate. Then checked in my luggage. They took my poster too. Hopefully, nothing happens to it. Then passed through the check-in code scanning area. Overall, it was easy. I'm hungry and thirsty. Don't know why. I have a headache. Am I stressed? Not sure. Maybe I'm just sleep-deprived. I'll wait for an hour at the gate. Continuing listening to Hiromi-sama.
 
@@ -22,7 +25,7 @@ Dinner was at a different restaurant. We walked 15 minutes to get there. They fi
 
 I'll do one more run-through of my presentation before sleeping. I need to think about how to present it to the visitors. But I'm very tired. My roommate is a nice fellow, but he has work to do too.
 
-## Day 1
+## Day 1 - Start of The Exhibition and Jury Sessions
 
 A nice breakfast in the morning. Then headed to the venue. Collected our belongings from the desk. Ömer Faruk Ursavaş helped me with my poster. Quite an honor.
 
@@ -38,7 +41,7 @@ After the exhibition, there was a talk by EIROForum, an EU fusion research insti
 
 After packing up at the exhibit and having dinner, we returned to the hotel. Called friends and family in Türkiye and went to bed.
 
-## Day 2
+## Day 2 - Jury Sessions Cont.
 
 Woke up in the morning, or rather, kept delaying getting up until it was 8:00 AM. Got dressed and went down for breakfast. The hotel's breakfast is quite nice, I like it. Had a bite to eat and walked up a few steep slopes to get to the venue. Let's see how today goes.
 
@@ -64,7 +67,7 @@ After leaving the exhibit, we went for a walk around the area. Palaces and stuff
 
 Back at the hotel, took a shower and went to bed.
 
-## Day 3
+## Day 3 - Jury Sessions Cont.
 
 Woke up, got ready. After breakfast, went to the venue. Nothing unusual. The juries are making their final decisions, making their rounds. Most of us have had four jury visits; we're waiting for our last ones. I expected mine to come early, but it hasn't yet (it's only been 30 minutes, though). Listened to Tank from Seatbelts to wake myself up.
 
@@ -82,7 +85,7 @@ Then we went back to the hotel. After resting, we went to the Belgian Diner. Don
 
 Talked to a lot of people on voice/video calls in the room. Now it's time to finish writing and go to bed because I'm tired, hungry, thirsty, and sleep is the cure for all these (sort of).
 
-## Day 4
+## Day 4 - Award Ceremony and Poster Take Off
 
 The day of the award ceremony. The most important event of the day. Imagine, my life might completely change in 5-6 hours. Crazy situation I'm in.
 
@@ -96,7 +99,7 @@ Waited for the bus for over 15 minutes to get to the award ceremony. When we got
 
 Now resting. Tomorrow will be all about traveling. Not planning to write anything for tomorrow. Unless something extraordinary happens, I don't want to write about the hours we spend waiting at the airport.
 
-## Day 5
+## Day 5 - Departure
 
 Couldn't wake up to the 3:30 AM alarm. Ended up getting ready at 4:00 AM when the TÜBİTAK officer called for the 4:15 ride. Not great, forgot my charger there. Nothing to be done. Then waited half an hour for the car. Not a great organization, unfortunately.
 

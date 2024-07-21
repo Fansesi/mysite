@@ -10,6 +10,9 @@ tags:
 weight: 1
 ---
 
+> **Note (EN):** If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.  
+> **Not (TR):** Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.
+
 ## Day 1
 
 Not day 0 because there are half-day activities upon arrival.

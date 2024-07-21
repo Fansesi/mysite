@@ -10,7 +10,7 @@ menu:
             icon: user
 ---
 
-I'm a passionate music information retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I'm currently a student at Bogazici University, Computer Engineering Department.
+My full name is Burak Sina Akbudak, though I prefer to be called just Sina. I'm a passionate Music Information Retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I'm currently a student at Bogazici University, Computer Engineering Department.
 
 My interests can be categorized as follows:
 
@@ -30,7 +30,7 @@ My interests can be categorized as follows:
 
 * 3D environment design
 * Character and hard surface modeling
-* Shader art coding
+* Shader art coding and openGL
 * Pixel art
 
 ### Other
@@ -39,6 +39,6 @@ My interests can be categorized as follows:
 * Game industry and game development
 * 3D printers and printing
 
-I plan to write about things that I like doing and some problems and solutions that I have faced and tackled. Also I'd like to create an archive of my travel notes!
+In this blog, I write about my projects, researchs, some thoughts and guides about specific stuff such as problems I've faced during my works or guide to project competitions. I also share my personal travel notes.
 
 Have a beautiful day!

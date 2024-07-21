@@ -2,7 +2,7 @@
 title: EUCYS Yarışması
 description: TÜBİTAK tarafından EUCYS'e seçildim ve Brüksel'deki yarışmaya katıldım.
 slug: eucys_gezi
-date: 2024-07-14 00:00:00+0000
+date: 2023-09-08 00:00:00+0000
 categories:
     - Gezi Yazıları
 tags:
@@ -10,7 +10,7 @@ tags:
 weight: 1
 ---
 
-## Gün 0
+## Gün 0 - Yolculuk
 
 İlk. Defa. Kendim. Uçak. Çılgın. Saat 2.40. Bir saat önce falan arkadaşlardan ayrıldım. Sağ olsunlar uğurladılar. Cem Abiyle atladım geldim havaalanına. Önce ilk giriş kapısından geçtim. Sonra valizleri verdim. Mukavvamı da aldılar. İnşallah başına bir şey gelmez. Ardından da check-in kodunu okuttuğumuz kısımdan geçtim. Kolaydı ya genel olarak. Aç ve susuzum. Neden bilmiyorum. Başım ağrıyor. Stresli miyim? Emin değilim. Sanırım uykusuzum ondan. Kapının önünde 1 saat bekleyeceğim. Hiromi-sama devam.
 
@@ -22,7 +22,7 @@ Yemek farklı bir restoranttaymış. Oraya yürüdük 15 dakka. İlk başta pork
 
 Son bir sunum tekrarı yapıp yatacağım. Ziyaretçilere nasıl sunacağım üzerine düşünmem lazım. Ama çok yorgunum. Oda arkadaşım da iyi ama onun da işi var.
 
-## Gün 1
+## Gün 1 - Sergi Hazırlığı ve Jüri Sunumları Başlangıcı
 
 Sabahtan güzel bi kahvaltı. Sonrasındaysa alana geliş. Eşyaları vs. her şeyleri aldık desk’ten. Posterime de sağ olsun Ömer Faruk Ursavaş yardım etti. Güzel bir onur.
 
@@ -38,7 +38,7 @@ Sergi sonrasında EIROForum diye bi muhabbet döndü. EU’nun bi füzyon araşt
 
 Sergideki eşyaları toplayıp, yemek yedikten sonra da otele geçtik. Türkiye'deki arkadaşları ve ailemi arayıp yattım.
 
-## Gün 2
+## Gün 2 - Jüri Sunumları Devam
 
 Sabah kalktık, daha doğrusu ha şimdi kalkcaz ha sonra kalkcaz derken saat 08.00 oldu. Giyindik, yemeğe indik. Otelin kahvaltısı güzel. Bir şeyler atıştırdık, dik birkaç yokuş sonrası geldik alana. Bakalım bugün nasıl geçecek.
 
@@ -69,7 +69,7 @@ Sonrasında sergiden ayrılıp toplu dolaşmaya gittik. Önce baya bi yürüdük
 
 Otele geri dönünce ise duş alıp yattım diyebilirim.
 
-## Gün 3
+## Gün 3 - Jüri Sunumları Devam
 
 Sabah kalktık, hazırlandık. Kahvaltıdan sonra geldik alana. Sıradışı bir şey yok. Jüriler artık son kararları veriyorlar, son kez dolaşıyorlar. Çoğumuza 4 jüri geldi zaten, son jürilerimizi bekliyoruz. Benimkinin erkenden gelmesini bekliyodum aslında ama gelmedi daha nedense (30 dk oldu anca gerçi de olsun). Tank dinledim kendime geldim.
 
@@ -87,7 +87,7 @@ Ardından otele geçtik. Dinlendikten sonra Belgian Diner’a gittik. Kimseyi k�
 
 Odada da bir sürü birileriyle konuştum sesli/görüntülü. Şimdiyse yazmayı bitirip yatma zamanı çünkü yorgunum, açım, susuzum ve büyün bunların ilacı uyku (sayılır).
 
-## Gün 4
+## Gün 4 - Ödül Töreni ve Ayrılış
 
 Ödül törenin olduğu gün. Günün direkt en önemli olayı haliyle. Düşünsene hayatım belki 5-6 saat sonra tümden değişecek. Çok çok çılgın bi durum.
 
@@ -101,7 +101,7 @@ Medimarkt’ta ayrıca Switch, PS5, Xbox falan da vardı tabi. Belki sonra ya, �
 
 Şimdi dinleniş. Yarın zaten tüm gün yola gidecek. Bir şey yazmayı düşünmüyorum şu anda yarın için. Belki sıradışı bir şey olursa yazarım. Onun dışında havaalanında beklerken çektiğimiz saatleri yazmak istemiyorum.
 
-## Gün 5
+## Gün 5 - Dönüş Yolculuğu
 
 Gece 03.30’a kurduğumuz alarma kalkamadık. Hal öyle olunca 04.15 kalkacak olan arabaya 04.00’da arayan TÜBİTAK görevlisinin telefonuyla hazırlanmaya başladık. Hoş olmadı, şarj aletini unuttum orda. Yapacak bir şey yok. Sonrasındaysa yarım saat araba bekledik. Çok iyi bir organizasyon değil maalesef.
 

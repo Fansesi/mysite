@@ -10,35 +10,35 @@ menu:
             icon: user
 ---
 
-I'm a passionate music information retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I'm currently a student at Bogazici University, Computer Engineering Department.
+İsmim Burak Sina Akbudak, Sina ise günlük hayatta genelde insanların bana seslendiği adım. Music Information Retrieval (MIR) alanında araştırmalarda bulunuyorum (ya da en azından ileride daha bu konuda araştırmacı olmak istiyorum!). Şu anda Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümünde öğrenciyim.
 
-My interests can be categorized as follows:
+İlgi alanlarımı aşağıdaki gibi kategorize edebilirim:
 
-### Music
+### Müzik
 
-* Classical, jazz and math rock music composition
-* Music theory and using this theory knowledge on playing classical, electrical, bass guitars and drums
-* Digital Audio Workstations (DAWs) and signal processing
+* Klasik, caz and math rock üzerine eserler besteleme
+* Müzik teori ve bu teorik bilgimi klasik, bas, elektro gitar ve bateri çalarken kullanma.
+* Digital Audio Workstations (DAWs) and sinyal işleme
 
-### Coding
+### Kodlama
 
-* Music modeling using natural language modeling techniques
-* Music information retrieval (MIR), namely the fields of synthetic music generation, singing voice synthesis, text-to-speech
-* Physical simulations using C/C++ (although I still have a lot to learn!)
+* Müziğin doğal dil işleme yöntemleriyle modellenmesi
+* Music information retrieval (MIR) alanı, daha da spesifik olarak sentetik müzik üretimi, vokal sentezi ve text-to-speech.  
+* C/C++ kullanarak fiziksel simülasyonlar (daha öğrenmem gereken çok fazla şey olsa da!)
 
-### Digital Art
+### Dijital Sanat
 
-* 3D environment design
-* Character and hard surface modeling
-* Shader art coding
+* 3D çevre tasarımı
+* Karakter ve katı yüzey (hard surface) modellemesi
+* Shader art coding ve openGL
 * Pixel art
 
-### Other
+### Diğer
 
-* Mathematical olympiads and contests
-* Game industry and game development
-* 3D printers and printing
+* Matematik olimpiyatları ve yarışmaları
+* Oyun endüstrisi ve oyun geliştirmesi
+* 3D baskı ve baskıyı boyama teknikleri
 
-I plan to write about things that I like doing and some problems and solutions that I have faced and tackled. Also I'd like to create an archive of my travel notes!
+Bu sitede; projelerim, araştırmalarım, farklı konular hakkında düşüncelerim ve spesifik konularda rehberler üzerine yazıyorum. Ayrıca kişisel gezi notlarımı paylaşıyorum.
 
-Have a beautiful day!
+Gününüz güzel geçsin!

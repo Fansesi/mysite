@@ -18,7 +18,7 @@ Olimpiyat hayatımın son 3 günü.
 
 # Gün 0 - Salı
 
-Sabah otobüsü. Büyük hata. Hele otobüsle hiç değil. Otobüs sevmiyorum pek (o yüzden dönüşü trene aldım hatta). İlk başlarda azcık uyudum sonra biraz kod yazdım. Ömer'le baya bi oyun oynadık. Yolculuk bitti zaten. 
+Sabah otobüsü. Büyük hata. Hele otobüsle hiç değil. Otobüs sevmiyorum pek (o yüzden dönüşü trene aldım hatta). İlk başlarda azcık uyudum sonra biraz kod yazdım. Ömer'le baya bi oyun oynadık. Yolculuk bitti zaten.
 
 Otele gelince önce odalarımızı ayarladık. Konuştuğumuz gibi ben, İsmet, Ömer. Sonra da az biraz dinlendik. Lobiye geçip Hitler attık uzun süre. Kampta tanıştığımız insanları gördük bir kere daha, onlarla selamlaştık, muhabbet ettik, oteli turladık. Bizimkilerden erken gelenler vardı zaten, onlar biliyorlardı biraz biraz. Ardından bizim üst dönemlerden bir arkadaş geldi bir ara, geleceğinden haberimiz vardı da ne zaman gelirdi emin değildik. Sonrasında yarın sınav var, dağılsak iyi olur deyip geçtik odalarımıza, daha doğrusu bizim odadan kovduk herkesi.
 
@@ -32,6 +32,9 @@ Sınav salonu *ko-ca-man*. Harbiden de sınav salonu. Hep tarif edildiği gibi u
 Sınavda süre aktı zaten. Kek yemeyi düşünmedim hiç, elimden geldiğince sorulara uğraştım. Bitime yakın dedim Allah'ım inşaallah bizimkiler içinden geçmiştir ama maalesef onlar da patlamış. Moral bozmayın, daha ikinci gün var dedim elimden geldiğince ne yapayım başka.
 Gariptir soru tartışırken kötü hissetmedim. Sanırım o kadar da önemsemediğimden kaynaklı. Bu bence iyi bir şey. Deneme sınavlarında da kötü hissetmeyi bıraksam iyi olur.
 Anneler babalar İsmet'i ayarlamışlar, İsmet al sen çocukları gezdir, yedir içir. Bir alışveriş merkezi varmış, İsmet gezmiş daha önce sanırım oraları. Biz de girdik, önce bi yemek yedik. Sonra gidip saatlerce bilardo attık. Önce oynamak istemedim ama ısrar ettiler oynadım. İsmet olmasa oynamazdım zaten de, İsmet da best olduğu için keyifliydi yine de. Şakasız bir iki saat bilardonun ardından otele geri döndük.
+
+![Bizim takım.](1.webp)
+
 Akşama doğru iki üç Hitler attık yine. Hitler çok sarmıyor artık bizi, ne de olsa 3 senedir falan oynuyoruz deli gibi, ama yine de âdettendir. Biraz oyun falan oynayıp yattık zaten sonra.
 Gece uykusu şöyle böyle.
 

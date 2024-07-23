@@ -7,6 +7,7 @@ categories:
     - Travel Notes
 tags:
     - Ankara
+    - Minor Travel
 weight: 1
 ---
 

@@ -7,6 +7,7 @@ categories:
     - Gezi Yazıları
 tags:
     - İsviçre
+    - Büyük Gezi
 weight: 1
 ---
 

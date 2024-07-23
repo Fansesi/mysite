@@ -1,12 +1,13 @@
 ---
 title: EUCYS Competition
-description: I've selected for EUCYS by TÜBİTAK and attended the competition which held in Brussels.
+description: I've been selected for EUCYS by TÜBİTAK and attended the competition which held in Brussels.
 slug: eucys_travel
 date: 2023-09-08 00:00:00+0000
 categories:
     - Travel Notes
 tags:
     - Brussels
+    - Major Travel
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

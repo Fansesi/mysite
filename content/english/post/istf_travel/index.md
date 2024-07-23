@@ -1,12 +1,13 @@
 ---
 title: ISTF Event
-description: I've selected for ISTF by TÜBİTAK and attended the event in Switzerland.
+description: I've been selected for ISTF by TÜBİTAK and attended the event in Switzerland.
 slug: istf_travel
 date: 2024-02-20 00:00:00+0000
 categories:
     - Travel Notes
 tags:
     - Switzerland
+    - Major Travel
 weight: 1
 ---
 

@@ -7,6 +7,7 @@ categories:
     - Gezi Yazıları
 tags:
     - Brüksel
+    - Büyük Gezi
 weight: 1
 ---
 

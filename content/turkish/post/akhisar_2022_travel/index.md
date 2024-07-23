@@ -1,7 +1,7 @@
 ---
 title: Akhisar Gezisi
-description: Arkadaşımı görmeye Akhisar'a gittim.
-slug: izmir_2023_gezi
+description: Oda arkadaşımı görmeye Akhisar'a gittim.
+slug: akhisar_2023_gezi
 date: 2022-01-08 00:00:00+0000
 categories:
     - Gezi Yazıları
@@ -10,6 +10,9 @@ tags:
     - Küçük Gezi
 weight: 1
 ---
+
+>Bu yazı yalnızca Türkçe olarak paylaşılmıştır.
+>This article is published only in Turkish language.
 
 ## Gün 1
 

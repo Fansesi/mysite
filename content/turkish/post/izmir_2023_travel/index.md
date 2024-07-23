@@ -2,7 +2,7 @@
 title: Kafa Dağıtmalık İzmir Gezisi
 description: EUCYS için hazırlanırken yaptığım İzmir'deki arkadaşlar gezisi.
 slug: izmir_2023_gezi
-date: 2024-02-20 00:00:00+0000
+date: 2023-08-04 00:00:00+0000
 categories:
     - Gezi Yazıları
 tags:

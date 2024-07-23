@@ -1,7 +1,7 @@
 ---
-title: 2204A 2023 Türkiye Finalleri - Ziyaretçi
+title: 2204A 2024 Türkiye Finalleri - Ziyaretçi
 description: 2204A'nın Türkiye Finallerinde bu sefer ziyaretçi olarak bulundum.
-slug: isef_travel
+slug: 2204A_2024_gezi
 date: 2024-05-28 00:00:00+0000
 categories:
     - Gezi Yazıları

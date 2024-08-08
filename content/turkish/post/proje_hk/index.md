@@ -11,7 +11,7 @@ math: true
 weight: 1
 ---
 
->Bu yazı yalnızca Türkçe olarak paylaşılmıştır. 
+>Bu yazı yalnızca Türkçe olarak paylaşılmıştır.
 >This article is published only in Turkish language.
 
 *Baştan sona, her ayrıntısıyla; 2204A, EUCYS ve ISEF.*
@@ -117,6 +117,7 @@ Ne kadar zor olduğu düşüncesi kişiden kişiye değişen bir durum. Şahsen 
 - Eğer çalışmanız aynı alandaki farklı bir çalışmayla benzerlik taşıyorsa (ki taşıyacaktır, *eğer taşımıyorsa yeterince araştırmamışsınızdır*) o çalışmada kullanılan cümlelere ve alıntılara dikkat edin ancak **kopya çekmeyin, intihal yapmayın**.
 	- Raporunuzdaki ifadelerin başka başka yerlerden alınıp alınmadığı ön elemede TÜBİTAK intihal sistemi tarafından kontrol edilir.
 	- Bu makaleler yalnızca raporunuzun gidişatı, başlık/alt başlıkları, özellikle değinmeniz gereken ve gerekmeyen noktaları bulurken yardımcı olabilir.
+- 2204A'nın rapor yazım şablonu ve kılavuzda belirtilen yönergeleri kullanın. Çılgın işlere girişmeyin.
 
 ### Proje ön elemeyi geçti...
 Öncelikle, tebrikler! Bu yolculuktaki ilk engeli geçtiniz. Önünüzde *bölge sergisi* olacak. 
@@ -247,7 +248,7 @@ Bu süreçte yapılması gerekenleri madde madde inceleyelim:
 	- Ben projeyi çok başka bir yere çekmek istemiştim. Beraber çalıştığım akademisyenin de yönlendirmeleriyle projeyi başka bir boyuta taşıdım. Alana olan hakimiyetim oldukça fazla arttı. Tabi sonuçta bir şey kazanamayınca çok ama çok üzüldüm. Ama yapacak bir şey yok, kazanmak da kaybetmek de bu işin bir parçası.
 
 ### EUCYS etkinliğindeyken...
-Etkinlik her sene farklı bir Avrupa şehrinde düzenleniyor. Kendi deneyimimi göz önüne alırsam otel de yemekler de organizasyon da TÜBİTAK'ın yanına yaklaşamaz. Çok fazla bir şey beklemeyin derim.
+Etkinlik her sene farklı bir Avrupa şehrinde düzenleniyor. Kendi deneyimimi göz önüne alırsam otel de yemekler de organizasyon da TÜBİTAK'ın yanına yaklaşamaz, çok fazla bir şey beklemeyin derim. Yeme içmenize dikkat edin, gerekirse size verilen cep harçlığını (uzun süredir 500 euro veriliyor) full yeme içmeye verin.  
 
 Her ne kadar demesi yapmasından kolay olsa da, etkinlik boyunca elinizden geldiğince sakin olun. Kazanmanın hayatınızda oldukça fazla şeyi değiştirebileceğinin farkında olun ancak her şeyi ödüle bağlamayın. Avrupalıların ne kadar rahat olduğunu göreceksiniz, moralinizin bozulmasına izin vermeyin. Onlar için herhangi bir sosyalleşme/para kazanma/deneyim edinme etkinliği olsa da bizim için işin ucunda sınavsız geçiş gibi bir gerçek var (tabi yurt dışında okuyacak öğrencileri hariç tutuyorum). Elinizden geldiğince rahat olun, kendinize güvenin, insanlarla sosyalleşin. Türkiye sergilerinde yapılması gerekenler burada da geçerli ancak uluslararası boyutta.
 
@@ -394,7 +395,7 @@ Poster için birkaç püf nokta var:
 - Yukarıdan ve aşağıdan biraz boşluk bırakılmalı ki header'ı üste koyduğunuzda yazıyı kaplamasın ve yazılar çok aşağıda kalmasın.
 
 ### ISEF etkinliğindeyken...
-ISEF her sene Amerika'nın başka bir şehrinde gerçekleştirilen devasa bir organizasyon. Şu anki organizatör Regeneron hiçbir şey karşılamıyor, tüm karşılamayı TÜBİTAK yapacak. Dolayısıyla kalacağınız muhtemelen kalbur üstü olacaktır. Yemek içme içinse size verilecek cep harçlıkları ve kendi getirdiğiniz parayı kullanacaksınız.
+ISEF her sene Amerika'nın başka bir şehrinde gerçekleştirilen devasa bir organizasyon. Şu anki organizatör Regeneron hiçbir şey karşılamıyor, tüm karşılamayı TÜBİTAK yapacak. Dolayısıyla kalacağınız muhtemelen kalbur üstü olacaktır. Yemek içme içinse size verilecek cep harçlıkları (uzun süredir 500 dolar veriliyor) ve kendi getirdiğiniz parayı kullanacaksınız.
 
 Uzun bir uçak yolculuğu sonucu Amerika'ya vardınız. Umuyorum ki çok jetlag olmamış, sınırda çok beklememiş, hızlıca otele gelebilmiş ve rahatça dinlenebilmişsinizdir. Çünkü yaklaşık bir haftalık ISEF maceranız başlamak üzere!
 
@@ -442,7 +443,7 @@ Jüri sayısı kategoriye ve projeye bağlı değişkenlik gösterebilir ancak k
 Sergi yalnızca bir gün toplumun gezmesine açılıyor. Bu gün jüri gününün hemen ertesi günü olduğundan dolayı (sizin programınız pekala farklı olabilir) oldukça yorgun olacaksınızdır. Eğer yapabiliyorsanız ziyaretçilere güler yüzle kendinizi aşırı yormadan projenizi anlatın. Amerika'da kim bilir kimler projenizi dinlemeye gelecektir. Örneğin bana oldukça kaliteli bir müzisyen gelmişti. *AI ethics* üzerine 15-20 dakika muhabbet etmişizdir. Ne zaman nasıl ufkunuzun genişleyeceğini tahmin etmek zor.
 
 ### ISEF sonunda...
-Özel ödül töreni (special award ceremony) ve büyük ödül töreni (grand award ceremony) ile ISEF etkinliğini geride bırakıyorsunuz. 
+Özel ödül töreni (special award ceremony) ve büyük ödül töreni (grand award ceremony) ile ISEF etkinliğini geride bırakıyorsunuz.
 
 - **Ödül aldıysanız:** Tebrikler! Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. Eğer yurt dışı (özellikle Amerika) okullarına başvurmak istiyorsanız öz geçmişinizde parlayan bir yıldız var. Ancak çok böbürlenmeyin çünkü üniversiteye geçtiğinizde sizin gibi bir sürü insan da çok ciddi çalışmalar yapacak ve arada açtığınız farkı kapatacaklardır. Dolayısıyla ISEF'ten ödül almak bir şeyin bitişi ve yatma hakkı elde etmek değil, çok başka güzel şeylerin başlangıcı gibi düşünülmelidir.  
 - **Ödül alamadıysanız:** Canınız sağ olsun, canımız sağ olsun. Önünüzde inşallah daha uzun bir hayat ve kariyer var. Şu anda yaşıtlarınızda zaten oldukça ileridesiniz. ISEF sürecinde gösterdiğiniz çalışkanlığı ileride de göstererek güzel işler başaracağınızdan emin olabilirsiniz.

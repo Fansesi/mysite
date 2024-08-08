@@ -128,6 +128,6 @@ Sonrasında Leylekler 2. oldu, bizim alt dönem 1. oldu. Salondan çıkıp TAKEV
 
 Yorucu bir 6 gün, keyifli bir 6 gün. Ama gerçekten de günün sonun inanılmaz bitti. Sanırsam mutluyum. Ama kafam da karışık. Üniversite seçimi olsun, ISEF olsun. Araştırmam lazım baya bi. Kendime iş açtım kfkfkfkdkd.
 
-Bu başarıyı kazanmamda büyük rol oynayan abime, anneme ve babamı ne kadar teşekkür etsem azdır. Ayrıca okul arkadaşlarıma ve okul yetkililerime güvenleri için de minnetarım.
+Bu başarıyı kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Ayrıca okul arkadaşlarıma ve okul yetkililerime güvenleri için de minnetarım.
 
 Şükürler olsun.
